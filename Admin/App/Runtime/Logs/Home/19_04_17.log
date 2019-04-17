@@ -1,0 +1,1894 @@
+[ 2019-04-17T08:41:38+08:00 ] 127.0.0.1 /u/get_user_info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 54 行.
+
+[ 2019-04-17T08:41:39+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T08:41:39+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T08:41:40+08:00 ] 127.0.0.1 /o/orderconsolesumm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant intval - assumed 'intval' D:\wamp\www\Finance\Admin\App\Home\Controller\OrderController.class.php 第 217 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T08:42:36+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T08:55:59+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-04-17T08:55:59+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+
+[ 2019-04-17T08:59:03+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+
+[ 2019-04-17T08:59:04+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-04-17T09:00:40+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-04-17T09:00:40+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+
+[ 2019-04-17T09:10:49+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1267 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 23 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 25 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 26 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 27 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 28 行.
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:10:49+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1267 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 23 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 25 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 26 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 27 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 28 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:11:03+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+
+[ 2019-04-17T09:11:03+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1267 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 23 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 25 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 26 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 27 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 28 行.
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 676 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:11:50+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1267 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 23 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 25 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 26 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 27 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 28 行.
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:11:50+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1267 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 23 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 25 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 26 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 27 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 28 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:11:58+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1267 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 23 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 25 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 26 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 27 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 28 行.
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:11:59+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1267 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 23 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 25 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 26 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 27 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\App\Home\Controller\CommonController.class.php 第 28 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php:1094) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:12:43+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:12:44+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:13:29+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:13:29+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:22:18+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:22:18+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:24:32+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\App\Common\Common\function.php:8) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:24:32+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:25:17+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:25:17+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:26:37+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:26:37+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:27:06+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:27:06+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:27:23+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:27:24+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:28:38+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:28:38+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:29:04+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:29:04+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:29:58+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\App\Common\Common\function.php:8) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:29:58+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:30:19+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\App\Common\Common\function.php:8) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:30:19+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:33:51+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:33:51+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:43:07+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: recordcount D:\wamp\www\Finance\Admin\App\Home\Controller\OrderController.class.php 第 55 行.
+NOTIC: [8] Undefined index: time_limit D:\wamp\www\Finance\Admin\App\Home\Controller\OrderController.class.php 第 56 行.
+NOTIC: [8] Undefined index: data D:\wamp\www\Finance\Admin\App\Home\Controller\OrderController.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php:987) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:43:07+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:43:24+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:43:24+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:45:01+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] session_start(): open(D:/wamp/tmp\sess_2ah9vp1ov5mqmeuj06a4q8jdd0, O_RDWR) failed: Permission denied (13) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:45:42+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): open(D:/wamp/tmp\sess_2ah9vp1ov5mqmeuj06a4q8jdd0, O_RDWR) failed: Permission denied (13) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:46:02+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] session_start(): open(D:/wamp/tmp\sess_2ah9vp1ov5mqmeuj06a4q8jdd0, O_RDWR) failed: Permission denied (13) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php:987) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:46:49+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:46:50+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:47:03+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:47:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+
+[ 2019-04-17T09:47:21+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:47:39+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:47:58+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] session_start(): open(D:/wamp/tmp\sess_2ah9vp1ov5mqmeuj06a4q8jdd0, O_RDWR) failed: Permission denied (13) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php:987) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:48:24+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:48:54+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] session_start(): open(D:/wamp/tmp\sess_2ah9vp1ov5mqmeuj06a4q8jdd0, O_RDWR) failed: Permission denied (13) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php:987) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:51:33+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:51:55+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:51:55+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:52:14+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2] session_start(): open(D:/wamp/tmp\sess_2ah9vp1ov5mqmeuj06a4q8jdd0, O_RDWR) failed: Permission denied (13) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php:987) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:55:54+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: recordcount D:\wamp\www\Finance\Admin\App\Home\Controller\OrderController.class.php 第 55 行.
+NOTIC: [8] Undefined index: time_limit D:\wamp\www\Finance\Admin\App\Home\Controller\OrderController.class.php 第 56 行.
+NOTIC: [8] Undefined index: data D:\wamp\www\Finance\Admin\App\Home\Controller\OrderController.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php:987) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:55:54+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:56:19+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:56:19+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T09:58:16+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T09:58:17+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php:987) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T09:58:46+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): open(D:/wamp/tmp\sess_2ah9vp1ov5mqmeuj06a4q8jdd0, O_RDWR) failed: Permission denied (13) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php:987) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T10:19:55+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T10:19:55+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T10:20:44+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T10:20:45+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T10:22:24+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T10:22:24+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T10:23:14+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] session_start(): open(D:/wamp/tmp\sess_2ah9vp1ov5mqmeuj06a4q8jdd0, O_RDWR) failed: Permission denied (13) D:\wamp\www\Finance\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php:987) D:\wamp\www\Finance\Admin\ThinkPHP\Library\Think\Controller.class.php 第 227 行.
+
+[ 2019-04-17T10:33:26+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T10:33:26+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T10:43:18+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T10:43:18+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T11:07:38+08:00 ] 127.0.0.1 /u/get_user_info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 54 行.
+
+[ 2019-04-17T11:07:38+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T11:07:39+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T11:07:39+08:00 ] 127.0.0.1 /o/orderconsolesumm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant intval - assumed 'intval' D:\wamp\www\Finance\Admin\App\Home\Controller\OrderController.class.php 第 217 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T11:10:02+08:00 ] 127.0.0.1 /u/get_user_info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 54 行.
+
+[ 2019-04-17T11:14:27+08:00 ] 127.0.0.1 /u/get_user_info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 54 行.
+
+[ 2019-04-17T11:16:06+08:00 ] 127.0.0.1 /u/get_user_info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 54 行.
+
+[ 2019-04-17T11:16:32+08:00 ] 127.0.0.1 /u/get_user_info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 54 行.
+
+[ 2019-04-17T12:19:33+08:00 ] 127.0.0.1 /u/get_user_info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 54 行.
+
+[ 2019-04-17T12:21:09+08:00 ] 127.0.0.1 /u/get_user_info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 54 行.
+
+[ 2019-04-17T12:21:10+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T12:21:14+08:00 ] 127.0.0.1 /o/order_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T12:24:15+08:00 ] 127.0.0.1 /r/role_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::fetchs(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\RoleController.class.php on line 11 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 20 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 21 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\RoleController.class.php 第 19 行.
+
+[ 2019-04-17T12:24:22+08:00 ] 127.0.0.1 /r/get_all_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\RoleController.class.php on line 143 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\RoleController.class.php 第 149 行.
+
+[ 2019-04-17T12:24:22+08:00 ] 127.0.0.1 /d/department_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\DepartmentModel::fetchs(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\DepartmentController.class.php on line 12 and defined D:\wamp\www\Finance\Admin\App\Home\Model\DepartmentModel.class.php 第 17 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\DepartmentModel.class.php 第 18 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\DepartmentController.class.php 第 22 行.
+
+[ 2019-04-17T12:25:29+08:00 ] 127.0.0.1 /d/department_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\DepartmentModel::fetchs(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\DepartmentController.class.php on line 12 and defined D:\wamp\www\Finance\Admin\App\Home\Model\DepartmentModel.class.php 第 17 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\DepartmentModel.class.php 第 18 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\DepartmentController.class.php 第 22 行.
+
+[ 2019-04-17T12:25:38+08:00 ] 127.0.0.1 /u/user_lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant intval - assumed 'intval' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 188 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T12:25:38+08:00 ] 127.0.0.1 /r/role_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::fetchs(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\RoleController.class.php on line 11 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 20 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 21 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\RoleController.class.php 第 19 行.
+
+[ 2019-04-17T12:25:48+08:00 ] 127.0.0.1 /u/user_lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant intval - assumed 'intval' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 188 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: time_limit D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 277 行.
+
+[ 2019-04-17T12:28:22+08:00 ] 127.0.0.1 /u/user_lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant intval - assumed 'intval' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 188 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+
+[ 2019-04-17T12:28:50+08:00 ] 127.0.0.1 /u/get_power_node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::get_all_node(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php on line 61 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 32 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 33 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 73 行.
+
+[ 2019-04-17T12:28:50+08:00 ] 127.0.0.1 /r/role_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Home\Model\RoleModel::fetchs(), called in D:\wamp\www\Finance\Admin\App\Home\Controller\RoleController.class.php on line 11 and defined D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 20 行.
+NOTIC: [8] Undefined variable: params D:\wamp\www\Finance\Admin\App\Home\Model\RoleModel.class.php 第 21 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp\www\Finance\Admin\App\Home\Controller\RoleController.class.php 第 19 行.
+
+[ 2019-04-17T12:28:50+08:00 ] 127.0.0.1 /u/user_lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 279 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+NOTIC: [8] Undefined index: shop_url D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 405 行.
+NOTIC: [8] Undefined index: platform_domain D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 406 行.
+NOTIC: [8] Undefined index: TOKEN D:\wamp\www\Finance\Admin\App\Common\Conf\siteInfo.php 第 14 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant intval - assumed 'intval' D:\wamp\www\Finance\Admin\App\Home\Controller\UserController.class.php 第 188 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp\www\Finance\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 675 行.
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/wamp/www/Finance/logics/logics/console/models/business/View_BusinessOrder.php</file>
+            <file>file:/D:/wamp/www/Finance/Admin/App/Home/Controller/OrderController.class.php</file>
+            <file>file:/D:/wamp/www/Finance/logics/logics/console/behaviors/business/OrderBehavior.php</file>
+            <file>file:/D:/wamp/www/Finance/Admin/App/Home/Model/RoleModel.class.php</file>
+            <file>file:/D:/wamp/www/Finance/logics/logics/console/models/business/List_BusinessOrder.php</file>
+            <file>file:/D:/wamp/www/Finance/logics/logics/console/controllers/business/OrderController.php</file>
+            <file>file:/D:/wamp/www/Finance/logics/logics/console/behaviors/user/UserBehavior.php</file>
+            <file>file:/D:/wamp/www/Finance/logics/logics/console/controllers/user/UserController.php</file>
+            <file>file:/D:/wamp/www/Finance/Admin/App/Home/Controller/CateController.class.php</file>
+            <file>file:/D:/wamp/www/Finance/Admin/App/Home/Controller/ReportController.class.php</file>
+            <file>file:/D:/wamp/www/Finance/Admin/App/Home/Controller/AdminOrderController.class.php</file>
+            <file>file:/D:/wamp/www/Finance/Admin/App/Home/Model/OrderModel.class.php</file>
+            <file>file:/D:/wamp/www/Finance/Admin/App/Home/Controller/RoleController.class.php</file>
+            <file>file:/D:/wamp/www/Finance/Admin/App/Home/Model/UserModel.class.php</file>
+            <file>file:/D:/wamp/www/Finance/logics/logics/console/models/user/View_GetUserNode.php</file>
+            <file>file:/D:/wamp/www/Finance/Admin/App/Home/Controller/UserController.class.php</file>
+            <file>file:/D:/wamp/www/Finance/Admin/App/Home/Controller/GoodsController.class.php</file>
+        </group>
+    </open-files>
+</project-private>
